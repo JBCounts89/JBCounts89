@@ -6,9 +6,11 @@ I'm currently finishing my master's in economics at the University of Utah. I'm 
 
 -I can be reached at countsjulien@gmail.com
 
--You can find my background and experiences at [My Resume](https://docs.google.com/document/d/1lnyGlHYqEGCbm05-9Qf3-keQoqWiUCstlRFaFzbe_dM/edit?usp=sharing).
+-You can learn more about my background and experiences at [My Resume](https://docs.google.com/document/d/1lnyGlHYqEGCbm05-9Qf3-keQoqWiUCstlRFaFzbe_dM/edit?usp=sharing).
 
 -Fun fact ⚡: I lived in 6 different states before my 18th birthday!
+
+Thank you for stopping by!
 
 <!--
 **JBCounts89/JBCounts89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
