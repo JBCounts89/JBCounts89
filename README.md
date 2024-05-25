@@ -6,7 +6,7 @@ I'm a recent master's in economics graduate from The University of Utah. I'm als
 
 -I can be reached at countsjulien@gmail.com
 
--You can learn more about my background and experiences at [My Resume](https://docs.google.com/document/d/1MaCaPU5UgHr2NJMNLhyE56cBlx_TGVX6RAnWcfFfa3s/edit?usp=sharing).
+-You can learn more about my background and experiences at [My Resume](https://docs.google.com/document/d/135KJlj0LTcafCtw62JjVlghZ6vgJdJ_tpnr8zF24z0I/edit?usp=sharing).
 
 -Fun fact ⚡: I lived in 6 different states before my 18th birthday!
 
